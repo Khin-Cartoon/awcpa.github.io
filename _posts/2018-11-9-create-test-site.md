@@ -20,4 +20,4 @@ In my opinion, CGI is a useful thing in movies but for the price of it, it's a n
 
 ## Drawn Animation
 
-This type 
+This type of animation is the most common and the most least expensive.
