@@ -20,4 +20,5 @@ In my opinion, CGI is a useful thing in movies but for the price of it, it's a n
 
 ## Drawn Animation
 
-This type of animation is the most common and is less expensive than cgi animation.
+This type of animation is the most common and is less expensive than cgi animation.This type of animation has been
+around and been used for a very long time, like in the 1900s. If you have watched movies/cartoons like anime or old disney movies, you would know what drawn animation looks like when played. To me, drawn animation is the best form of animation because when using cgi, the cost of it is just so expensive and when using drawn animation,the budget is much less because it is all drawn and not cgi'd.
