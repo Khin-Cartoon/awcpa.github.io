@@ -6,7 +6,7 @@ title: Animation
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Egyptmotionseries.jpg" alt="Image result for animation process"/>
  
  
-The image right above is supposed to represent animation. Animation is a bunch of images or drawings to create a illusion of movement.If you watch stuff from Disney, you would know what animation is. The picture above was the only image I could find that was not copyrighted and close to animation. 
+The image right above is supposed to represent animation. Animation is a bunch of images or drawings to create a illusion of movement.If you watch stuff from Disney, you would know what animation is. This picture was the only image I could find that was not copyrighted and close to animation. 
 
 
 # The impact of Animation
