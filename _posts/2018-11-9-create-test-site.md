@@ -3,7 +3,7 @@ layout: post
 title: Types of Animations
 ---
 
-![image title](/images/)
+![image title](/images/animation (1).jpg)
 
 ## CGI Animation
 
@@ -20,4 +20,4 @@ In my opinion, CGI is a useful thing in movies but for the price of it, it's a n
 
 ## Drawn Animation
 
-This type of animation is the most common and the most least expensive.
+This type of animation is the most common and is less expensive than cgi animation.
