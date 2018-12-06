@@ -3,7 +3,7 @@ layout: post
 title: Types of Animations
 ---
 
-![image title](/images/animation (1).jpg)
+![the image wont load](/images/animation (1).jpg)
 
 ## CGI Animation
 
