@@ -7,7 +7,7 @@ title: Disney
 
 ## Disney Logo
 
-The image above is the legendary logo of one of the biggest names of animation. "Disney" as it is called is easily one of the best animation studios in the world. They have made countless big titles like,Moana, Donald Duck and other names like the Little Mermaid.Of course there are other competitors like, Pixar and DreamWorks.
+The image above is the legendary logo of one of the biggest names of animation. "Disney" as it is called is easily one of the best animation studios in the world. They have made countless big titles like,Moana, Donald Duck and other names like the Little Mermaid.Of course Disney is not the best but to me, they are and there are other competitors like, Pixar and DreamWorks.
 
 
 ## Disney Movies
