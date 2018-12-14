@@ -16,5 +16,10 @@ Samsung is one of the biggest companies that produce technical products for a li
 ## Pros of owning a Galaxy
 One of the good things of owning a Galaxy is the experience of using it. The experience of using it just feels good, like when you're super tired and you just want to drink a soda good. Okay,one of the actual pors of owning one is that there are so many features in the phone that you can try out like the suoer sharp camera on their Galaxy 9 and the Note 9. Another one of the reasons to buy it is because of the amazing display that the phone has, the curved screen and hard glass, it is whatever you want in a phone.
 
+## Cons of owning one
+There really isnt anything I have to say about the Samsung Galaxy that is bad but there is one in particular that people have complained to Samsung about, the Note 7. There were many cons about this phone
+
+
+
 
 
